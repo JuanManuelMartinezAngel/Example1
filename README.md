@@ -1,1 +1,2 @@
-# uloyola-PAD2-23
+# bj_project
+Project Black Jack
